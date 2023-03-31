@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807220975669",
+    "project_id": "my-vidyutee2",
+    "storage_bucket": "my-vidyutee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807220975669:android:e76c3b56257fd3e533f97c",
+        "android_client_info": {
+          "package_name": "com.vidyutee.vidyutee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807220975669-kcvm62aa6hh0fmort9v5oiaq965cav0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBed4yNa0mYC-8rs2qHh4nDyQHZU5Rhbos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807220975669-kcvm62aa6hh0fmort9v5oiaq965cav0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

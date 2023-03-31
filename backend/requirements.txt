@@ -1,0 +1,5 @@
+fastapi
+firebase-admin==6.1.0
+uvicorn
+numpy
+pandas
