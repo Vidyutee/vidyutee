@@ -1,11 +1,11 @@
 # vidyutee
 
 ## Inspiration
-Electricity is like Oxygen for the modern era, yet sustainability in energy generation is a big problem. It is majorly because of the non-uniform electricity consumption across the day.
+Modern society relies heavily on electricity, but sustainable energy generation is a major challenge. This is mainly due to non-uniform electricity consumption throughout the day.
 
-Power generators run at overloading capacity at some parts of the day while they run idle for the other part. To make a sustainable solution for saving energy and distributing the load on Power generators throughout the day, we created the application **VIDYUTEE**. Vidyutee took in the appliances, preferred **ON** durations, and scheduled them across the day, such that the devices run more towards the time when the load is less, reducing the burden on the generating stations.
+The power generators run at overloading capacity during some parts of the day and idle during others. To make a sustainable solution for distributing the load on power generators over the day, we developed **VIDYUTEE**. Vidyutee took in the appliances, preferred **ON** durations, and scheduled them across the day. As a result, the devices are run more at times when there is less load, reducing the burden on the generators.
 
-This reduces the burden on the Power Generating stations and lowers the peak loads on them by distributing the load across the complete day. This application caters to the **7, 9, 11, and 12th Sustainable Development Goals** of the United Nations.
+This reduces the burden on the Power Generating stations and lowers the peak loads on them by distributing the load across the complete day. United Nations Sustainable Development Goals **7, 9, 11, and 12** are addressed in this application.
 
 ## How to use this application
 1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/tag/preliminary-version) and install the app.
