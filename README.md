@@ -5,7 +5,7 @@ Modern society relies heavily on electricity, but sustainable energy generation 
 
 The power generators run at overloading capacity during some parts of the day and idle during others. To make a sustainable solution for distributing the load on power generators over the day, we developed **VIDYUTEE**. Vidyutee takes in the appliances, preferred **ON** durations, and schedule them across the day.
 
-This reduces the burden on the Power Generating stations and lowers the peak loads on them by distributing the load across the complete day. United Nations Sustainable Development Goals **7, 9, 11, and 12** are addressed in this application.
+The load is distributed across the whole day, which reduces the burden on the Power Generating Stations. United Nations Sustainable Development Goals **7, 9, 11, and 12** are addressed in this application.
 
 ## How to use this application
 1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/tag/preliminary-version) and install the app.
@@ -21,4 +21,4 @@ This reduces the burden on the Power Generating stations and lowers the peak loa
 6. Click on `Upload Now` to upload all the data of your appliances in our database.
 7. Finally click on `Schedule Now` to run our backend algorithm and give the best time slots to run your appliances.
 8. The :bulb: stands for a device to be `ON` in that time block, while `-` refers to the device being `OFF`.
-9. You can also set the `Location` to get more personalized results for that location. Location page can be accessed via the navigation meny at the bottom of the screen.
+9. You can also set the `Location` to get more personalized results for that location. Location page can be accessed via the navigation menu at the bottom of the screen.
