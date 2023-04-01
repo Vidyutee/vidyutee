@@ -1,6 +1,10 @@
 # vidyutee
 
 ## Inspiration
+Power generators run at overloading capacity at some parts of the day, while, they run idle for the other part. To make a sustainable solution for saving the energy, and distribute the load on Power generators across the whole day, we created the application <<VIDYUTEE>>. Vidyutee takes in the appliances and preferred ON duration of the appliances, and schedule them across the day, such that the appliances run more towards the time, when the load is less, reducing the burden on the generating stations.
+  
+This not only reduces the burden on the Power Generating stations, but also lowers the peak loads on them by distributing the load across the complete day.
+This application caters to the **7, 9, 11, 12th Sustainable Development Goals** of the United Nations.
 
 ## How to use this application
 1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/tag/preliminary-version) and install the app.
