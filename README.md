@@ -50,13 +50,20 @@ It consists of the following components:
 https://github.com/Vidyutee/load_fetcher
 
 ## Feedback / Testing / Iteration
-Being from the major in Electrical Engineering, we took help of our professors to test and get the feedback for the application. Here are some of the points we received:
+Being from the major in Electrical Engineering, we took help of our professors and intern mentors (at power substations) to test and get the feedback for the application. Here are some of the points we received:
 
 - As the `Smart meters` are being installed in every corner of our country, our solution would be a great one, if it could directly take the readings from those meters and provide a schedule, rather than the user filling all details manually.
 - The Solution could also help a lot in reducing the burden on the power grids which in turn, will also decrease the burden of high electricity costs on the consumers.
 - There is a drawback that the scheduling algorithm doesn't consider the preferred time for the device by the user. For example, geysers are used in the morning time, but the algorithm can schedule it to run at night. We are still working on its implementation.
 - Initially, we designed the algorithm on a general data for the whole country, but then we added the feature to add the region, to give region-wise schedule to the users.
 - The app User Experience was improved, according to the suggestions, to give more ease of handling.
+- various bugs in API and other parts of the app were cleared iteratively.
 
 
+## Success and Completion of Solution
+The Electrical Load Profile was carefully studied (data extracted from the Indian Energy Exchange) and then we tried to schedule some appliances. Though we don't have any particular impact directly shown, but mathematically, the loads were shifted accurately. We also took reference data from a research paper (provided by our professor), having similar goals, and matched our schedule with the one in the paper, and found a high level of similarity.
 
+We are basically trying to shift the load from Peak hours to Off Peak hours, which reduces the damage and idle runs of the power generators. This app can be extremely useful if administered by the government directly.
+
+## Scalability / Next Steps
+- 
