@@ -12,7 +12,7 @@ The load is distributed across the whole day, which reduces the burden on the Po
 
 
 ## How to use this application
-1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/tag/preliminary-version) and install the app.
+1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/download/v0.0.2/vidyutee.apk) and install the app.
 2. Register if you're a new user, or directly login with your credentials.
 3. You will land on the `Appliance Set` page. Here, click on `+ Add New` button and create a new appliance set. An appliance set will serve as the collection of all the appliances which need to be scheduled.
 4. Click on the created appliance set, and you will land on the `Appliances` page. Click on `+Add New Appliance` button to add a new appliance.
