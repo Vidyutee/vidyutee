@@ -2,7 +2,7 @@
 
 ## Team Members (GDSC Punjab Engineering College, Chandigarh)
 - Hriday Agrawal
-- Tejesh Singh Raghav (Angreji medium)
+- Tejesh Singh Raghav
 - Mohit Tuteja
 
 
