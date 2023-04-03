@@ -1,5 +1,11 @@
 # Vidyutee
 
+## Team Members (GDSC Punjab Engineering College, Chandigarh)
+- Hriday Agrawal
+- Tejesh Singh Raghav (Angreji medium)
+- Mohit Tuteja
+
+
 ## Inspiration and Problem Statement
 Modern society relies heavily on electricity, but sustainable energy generation is a major challenge. This is mainly due to non-uniform electricity consumption throughout the day.
 
