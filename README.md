@@ -27,6 +27,22 @@ The load is distributed across the whole day, which reduces the burden on the Po
 8. The :bulb: stands for a device to be `ON` in that time block, while `-` refers to the device being `OFF`.
 9. You can also set the `Location` to get more personalized results for that location. Location page can be accessed via the navigation menu at the bottom of the screen.
 
+## How to run the code
+Below steps are required to run fully gateway application which include Flutter - IOT - Web dashboard.
+
+- Clone project to local machine:
+`git clone git@github.com:Vidyutee/vidyutee.git`
+
+- Get into the project directory and open `frontend` directory with terminal.
+
+- Open your terminal and run:
+`flutter pub get`
+
+- Connect a physical device. (Make sure that the `developer mode` is switched ON for that device.)
+
+- Write `flutter run` and there you go 😄.
+
+
 ## Youtube Demo
 https://youtu.be/nn1wQCAg5n8
 
