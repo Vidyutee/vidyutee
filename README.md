@@ -7,6 +7,10 @@ The power generators run at overloading capacity during some parts of the day an
 
 The load is distributed across the whole day, which reduces the burden on the Power Generating Stations. United Nations Sustainable Development Goals **7, 9, 11, and 12** are addressed in this application.
 
+![thumbnail_vidyutee](https://user-images.githubusercontent.com/76818035/229581007-dfaf70c3-e6ce-448f-884b-1ef8d2fafad2.png)
+
+
+
 ## How to use this application
 1. Download the apk from [here](https://github.com/Vidyutee/vidyutee/releases/tag/preliminary-version) and install the app.
 2. Register if you're a new user, or directly login with your credentials.
@@ -66,4 +70,10 @@ The Electrical Load Profile was carefully studied (data extracted from the India
 We are basically trying to shift the load from Peak hours to Off Peak hours, which reduces the damage and idle runs of the power generators. This app can be extremely useful if administered by the government directly.
 
 ## Scalability / Next Steps
-- 
+- The app needs improvements in terms of UI and UX.
+- The location feature is still in its primary phase, and needs to be improved.
+- The user prefered time consideration is to be implemented in the algorithm. (We already have some ideas, and will work on them soon)
+
+As of scalability, we don't expect any problem as all the actions are being handled on Firebase and Google Cloud Run, which handle the issues of scalability.
+
+## Thank you for viewing our application 😄
